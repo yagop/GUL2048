@@ -320,49 +320,49 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background: #f0f url('../img/BabyGnuAlpha.jpg');
+    background: #fff url('../img/BabyGnuAlpha.jpg');
     background-size: cover; }
   .tile.tile-4 .tile-inner {
-    background: #f0f url('../img/BabyTuxAlpha.jpg');
+    background: #fff url('../img/BabyTuxAlpha.jpg');
     background-size: cover; }
   .tile.tile-8 .tile-inner {
-    background: #f0f url('../img/debian-logo.jpg');
+    background: #fff url('../img/debian-logo.jpg');
     background-size: cover; }
   .tile.tile-16 .tile-inner {
-    background: #f0f url('../img/logo-ubuntu.jpg');
+    background: #fff url('../img/logo-ubuntu.jpg');
     background-size: cover; }
   .tile.tile-32 .tile-inner {
-    background: #f0f url('../img/logo_fsf.jpg');
+    background: #fff url('../img/logo_fsf.jpg');
     background-size: cover; }
   .tile.tile-64 .tile-inner {
-    background: #f0f url('../img/arch_linux.jpg');
+    background: #fff url('../img/arch_linux.jpg');
     background-size: cover; }
   .tile.tile-128 .tile-inner {
-    background: #f0f url('../img/fedora.jpg');
+    background: #fff url('../img/fedora.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    background: #f0f url('../img/slax.jpg');
+    background: #fff url('../img/slax.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    background: #f0f url('../img/open_suse.jpg');
+    background: #fff url('../img/open_suse.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    background: #f0f url('../img/centos-logo.jpg');
+    background: #fff url('../img/centos-logo.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    background: #f0f url('../img/richard_stallman.jpg');
+    background: #fff url('../img/richard_stallman.jpg');
     background-size: cover; }
     @media screen and (max-width: 520px) {
       .tile.tile-2048 .tile-inner {
@@ -517,7 +517,7 @@ hr {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -moz-user-select: none;
-    background: #bbada0;
+    background: #257DCF;
     border-radius: 6px;
     width: 280px;
     height: 280px;
